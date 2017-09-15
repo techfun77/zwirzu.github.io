@@ -6,6 +6,10 @@ This page will list links to pages wchich are available for bugbounty programs.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+<script> (function() { var cx = '013288817511911618469:elfqqbqldzg'; var gcse = document.createElement('script'); gcse.type = 'text/javascript'; gcse.async = true; gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//cse.google.com/cse.js?cx=' + cx; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(gcse, s); document.querySelector('html').classList.add('search'); })(); </script>
+<gcse:searchresults-only linktarget="_parent"></gcse:searchresults-only>
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
