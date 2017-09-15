@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Zwirzu
 
-You can use the [editor on GitHub](https://github.com/Zwirzu/zwirzu.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This page will list links to pages wchich are available for bugbounty programs.
+
+   [Pages](http://github/Zwizu.github.io/PAGES.md)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
