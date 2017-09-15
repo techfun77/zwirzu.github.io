@@ -2,7 +2,7 @@
 
 This page will list links to pages wchich are available for bugbounty programs.
 
-   [Pages](http://github/Zwirzu.github.io/PAGES.md)
+   [Pages](http://github.com/Zwirzu/zwirzu.github.io/PAGES.md)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
